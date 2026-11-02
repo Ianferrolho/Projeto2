@@ -1,0 +1,47 @@
+body {
+    background-color:grey;
+	font-family:Calibri;
+}
+
+h1 {
+	font-size:80px;
+	color:pink;
+	text-align:center;
+	text-weight:bold;
+}
+
+img {
+	display:block;
+	margin:auto;
+}
+
+.opiniões {
+	font-size:20px;
+	color:white;
+	font-family:uppercase;
+}
+
+li {
+	font-size:20px;
+	font-family:cursive;
+}
+
+h2 {
+	font-size:40px;
+	color: pink;
+}
+
+a:hover {
+	background-color: orange;
+}
+
+[href] {
+	color: darkgreen;
+}
+
+/* para mim a regra mais difícil de aplicar foi o [href] já que é um comando novo que aprendi no curso do Codeacademy e ainda não o tinha aplicado.
+Para além disso, o erro mais comum que cometi foi de certeza o esquecimento do ; , acabava sempre a não perceber porque o código não funcionava até lembrar me do maldito ;.
+Finalmente, o href serve para indicar a localização da informação, no caso do primeiro href onde está localizado o ficheiro de estilos e no segundo o link onde a pessoa que clicar vai ser direcionada.*/ 
+
+	
+	
